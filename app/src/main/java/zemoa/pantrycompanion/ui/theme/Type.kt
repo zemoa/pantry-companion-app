@@ -1,4 +1,4 @@
-package com.example.pantrycompanion.ui.theme
+package zemoa.pantrycompanion.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.example.pantrycompanion
+package zemoa.example.pantrycompanion
 
 import org.junit.Test
 

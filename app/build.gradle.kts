@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pantrycompanion"
+    namespace = "zemoa.pantrycompanion"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.pantrycompanion"
+        applicationId = "zemoa.pantrycompanion"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.example.pantrycompanion.ui.theme
+package zemoa.pantrycompanion.ui.theme
 
 import android.app.Activity
 import android.os.Build
