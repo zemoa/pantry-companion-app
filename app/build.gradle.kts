@@ -57,6 +57,11 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     testImplementation(libs.junit)
+    testImplementation(libs.mockito)
+    testImplementation(libs.mockito.kotlin) {
+        exclude("org.mockito", "mockito-core")
+    }
+    androidTestImplementation(libs.mockito.android)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     androidTestImplementation(platform(libs.androidx.compose.bom))
